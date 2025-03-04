@@ -17,9 +17,9 @@ Welcome to my **GitHub portfolio**! Here, you’ll find projects related to **so
 - **[SapperCpp](https://github.com/SecCodeSmith/SapperCpp)** – A Minesweeper game written in C++ with SFML.
 
 ### 📫 Get in Touch:
-- 💼 [LinkedIn](www.linkedin.com/in/jakub-berechowski-0556a8214)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jakub-berechowski-0556a8214)
 - 📃 [My webpage](https://seccodesmith.pl) *(Under Development)*
-- 🖥 [Gitea](git.seccodesmith.pl)
+- 🖥 [Gitea](https://git.seccodesmith.pl)
 - 📧 Email: *contact@seccodesmith.pl*
 
 ⚡ *Always eager to learn, collaborate, and build something innovative!*  
