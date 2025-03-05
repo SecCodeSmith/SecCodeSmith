@@ -10,7 +10,7 @@ Welcome to my **GitHub portfolio**! Here, you’ll find projects related to **so
 - **Embedded Systems**: ESP32, STM32, Raspberry Pi Pico
 - **Databases**: SQL, PostgreSQL
 - **DevOps**: Docker, Kubernetes, CI/CD
-- **AI**: Some times I create simple lerning model such as SVM or DNN
+- **Machine learning model**: Some times I create simple lerning model such as SVM or DNN
 
 ### 📌 Featured Projects:
 - **[SensorHubRpPICO](https://github.com/SecCodeSmith/SensorHubRpPICO)** – A Raspberry Pi Pico-based sensor hub for IoT applications.
