@@ -9,7 +9,7 @@ Welcome to my **GitHub portfolio**! Here, you’ll find projects related to **so
 - **Backend**: .NET, ASP.NET Core
 - **Embedded Systems**: ESP32, STM32, Raspberry Pi Pico
 - **Databases**: SQL, PostgreSQL
-- **DevOps**: Docker, Kubernetes, CI/CD
+- **DevOps**: Docker, CI/CD
 - **Machine learning model**: Some times I create simple lerning model such as SVM or DNN
 
 ### 📌 Featured Projects:
