@@ -23,7 +23,3 @@ Welcome to my **GitHub portfolio**! Here, you’ll find projects related to **so
 - 📧 Email: *contact@seccodesmith.pl*
 
 ⚡ *Always eager to learn, collaborate, and build something innovative!*  
-
-### 📈 GitHub Stats:
-![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=SecCodeSmith&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SecCodeSmith)]
