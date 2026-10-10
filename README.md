@@ -1,5 +1,5 @@
 # SecCodeSmith
-![Banner](Banner.png)
+![Banner](Banner.jpg)
 ## 👋 Hello, I'm Jakub!
 
 Welcome to my **GitHub portfolio**! Here, you’ll find projects related to **software development, cybersecurity, and embedded systems**. I enjoy working on **C++, Python, .NET, microcontrollers (ESP32, STM32, Raspberry Pi Pico)**.
